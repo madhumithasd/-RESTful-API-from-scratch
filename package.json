@@ -1,0 +1,26 @@
+{
+  "name": "RESTful-API-with-Express-from-scratch",
+  "version": "1.0.0",
+  "description": "- Building a RESTful API. - Performing CRUD operations. - Writing API endpoints.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriiaMur/RESTful-API-with-Express-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeriiaMur/RESTful-API-with-Express-from-scratch/issues"
+  },
+  "homepage": "https://github.com/ValeriiaMur/RESTful-API-with-Express-from-scratch#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "shortid": "^2.2.15"
+  }
+}
